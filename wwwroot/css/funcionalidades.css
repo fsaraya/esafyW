@@ -1,0 +1,82 @@
+﻿.funcionalidadesPequEmpr {
+    font-size: 14px;
+    font-weight: 600;
+    display: inline-block;
+    margin-bottom: 4px;
+    padding: 3px 4px;
+    list-style-type: none;
+    color: #fff;
+    border-radius: 2px;
+    background: #76aa3a;
+}
+.funcionalidadesMedEmpr {
+    font-size: 14px;
+    font-weight: 600;
+    display: inline-block;
+    margin-bottom: 4px;
+    padding: 3px 4px;
+    list-style-type: none;
+    color: #fff;
+    border-radius: 2px;
+    background: #ebc129;
+}
+.funcionalidadesGranEmpr {
+    font-size: 14px;
+    font-weight: 600;
+    display: inline-block;
+    margin-bottom: 4px;
+    padding: 3px 4px;
+    list-style-type: none;
+    color: #fff;
+    border-radius: 2px;
+    background: #33568f;
+}
+
+.funcionalidadesConsultoria {
+    font-size: 22px;
+    font-weight: 600;
+    display: inline-block;
+    margin-bottom: 4px;
+    padding: 3px 4px;
+    list-style-type: none;
+    color: #fff;
+    border-radius: 2px;
+    background: #ce6b00;
+}
+
+.botonDescargaBrochure {
+    color: #fff;
+    background-color: #dc3c3c;
+    border-color: #fc6b0a;
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: 700;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 2px solid transparent;
+    white-space: nowrap;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.6;
+    border-radius: 50px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.fondoPanel {
+    background-color:#f8f8f8;
+}
+
+.botonContacto {
+    height: 30px;
+    font-size: 12px;
+    border-radius: 50px;
+}
+
+.botonIngresoCliente {
+    border-radius: 10px;
+}
+    
